@@ -99,6 +99,40 @@ A* Search	1450	48
 Conditional Markov Chain Search (CMCS)	1400	45
 
 CMCS demonstrated the best balance of route efficiency and adaptability.
+🔑 Key Findings
+Algorithm Performance:
+
+The Conditional Markov Chain Search (CMCS) algorithm consistently produced the most efficient picking routes, with the shortest total travel distances and fewer visited bins compared to Greedy Nearest Neighbor and A* Search.
+
+A Search* outperformed Greedy in terms of route optimality but was computationally more intensive.
+
+The Greedy Nearest Neighbor method, while fastest in computation, often resulted in longer routes and more steps.
+
+Practical Trade-offs:
+
+There is a clear trade-off between computation time and route optimality; CMCS requires historical data but achieves better route efficiency.
+
+Simpler algorithms like Greedy can be useful for quick approximations when time or data is limited.
+
+Product Availability & Alternatives:
+
+Incorporating confidence-scored alternative suggestions for out-of-stock products helps improve order fulfillment accuracy and customer satisfaction.
+
+The system can handle dynamic inventory changes and still provide meaningful recommendations.
+
+User Interaction & Visualization:
+
+The chatbot interface provides intuitive real-time feedback and AI explanations, making complex algorithmic decisions accessible to non-expert users.
+
+Visual route representations aid in understanding and validating algorithm outputs.
+
+Overall Impact:
+
+The project demonstrates how AI techniques can be effectively integrated into warehouse logistics to reduce operational costs and improve service quality.
+
+Combining classical algorithms with data-driven models yields robust and adaptable solutions.
+
+
 
 🔗 Data Sources
 Product List: Detailed information about available products.
