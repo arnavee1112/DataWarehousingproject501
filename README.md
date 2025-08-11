@@ -16,13 +16,6 @@ Provides an interactive chatbot interface that simulates real-time user engageme
 
 This project showcases the practical application of classical and data-driven AI techniques within logistics and supply chain domains.
 
-Team Members and Contributions
-Arnavee Maltare — Led algorithm design and implementation, integrated core functionalities, developed Greedy and CMCS methods, and managed documentation.
-
-Chandresh Kaushik — Handled data preprocessing, implemented A* Search, developed visualizations, and contributed to the chatbot UI and availability modules.
-
-Laxminag Mamillapalli — Managed dataset curation, designed alternative product recommendation logic, and supported algorithm evaluation and testing.
-
 The team collaborated through iterative development cycles, peer reviews, and regular communication to deliver a comprehensive AI solution.
 
 🚀 Project Objectives
